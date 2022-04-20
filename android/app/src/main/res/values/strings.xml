@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">BookcatApp</string>
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">(AIzaSyDA2EsZYuyQPJ71MI3iOCvMJ9VF5QpGgcs)</string>
+</resources>
