@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import { StyleSheet, Text, View, } from 'react-native'
+import { StyleSheet, View,  } from 'react-native'
 import { Router, Scene, Stack, } from 'react-native-router-flux';
 
 import BottomTabs from './components/BottomTabs'
